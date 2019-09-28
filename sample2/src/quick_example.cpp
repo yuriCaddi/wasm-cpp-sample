@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 #include <emscripten/bind.h>
 using namespace emscripten;
 
